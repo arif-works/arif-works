@@ -33,7 +33,7 @@ I enjoy building practical web applications, exploring modern technologies, and 
 
 - **GitHub:** [@arif-works](https://github.com/arif-works)
 - **Portfolio:** [codearif.com](https://codearif.com)
-- **LinkedIn:** [Md. Ariful Islam](https://www.linkedin.com/in/ariful-islam/)
+- **LinkedIn:** [Md. Ariful Islam](https://www.linkedin.com/in/code-arif/)
 
 ---
 
